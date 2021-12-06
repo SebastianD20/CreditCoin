@@ -3,7 +3,7 @@ Credits Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/credits-project/credits.svg?branch=master)](https://travis-ci.org/credits-project/credits)
 
-https://credits.org
+https://cred-coin.org Coming soon.
 
 What is Credits?
 ----------------
