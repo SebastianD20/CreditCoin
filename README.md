@@ -4,6 +4,7 @@ Credits Core integration/staging tree
 [![Build Status](https://travis-ci.org/credits-project/credits.svg?branch=master)](https://travis-ci.org/credits-project/credits)
 
 https://cred-coin.org Coming soon.
+Discord: https://discord.gg/zM4tJj7JtB
 
 What is Credits?
 ----------------
@@ -17,7 +18,6 @@ software which enables the use of this currency.
 For more information, as well as an immediately useable, binary version of
 the Credits Core software, see [https://cred-coin.org](https://credit-coin.org coming soon).
 Website coming soon.
-Discord: https://discord.gg/zM4tJj7JtB
 
 License
 -------
