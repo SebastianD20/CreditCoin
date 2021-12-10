@@ -7,7 +7,7 @@ Website: https://credit-coin.org Coming soon.
 
 Discord: https://discord.gg/zM4tJj7JtB
 
-What is Credits?
+What are Credits?
 ----------------
 
 Credits has a max supply of 84 million coins utilizing its own decentralized 
