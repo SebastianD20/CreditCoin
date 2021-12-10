@@ -10,6 +10,11 @@ Discord: https://discord.gg/zM4tJj7JtB
 What is Credits?
 ----------------
 
+Credits has a max supply of 84 million coins utilizing its own decentralized 
+blockchain. It has a total daily mining reward of 28,800 coins.It has a target 
+block time of 2.5 minutes and adjusts difficulty every 2.5 days. Next halving
+is going to be about September 2023.
+
 Credits is an experimental digital currency that enables instant payments to
 anyone, anywhere in the world. Credits uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
