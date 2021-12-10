@@ -22,7 +22,7 @@ out collectively by the network. Credits Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Credits Core software, see [https://cred-coin.org](https://credit-coin.org coming soon).
+the Credits Core software, see [https://credit-coin.org](https://credit-coin.org coming soon).
 Website coming soon.
 
 License
