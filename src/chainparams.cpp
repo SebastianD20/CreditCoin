@@ -124,7 +124,7 @@ public:
         assert(genesis.hashMerkleRoot == uint256S("0x83b9f00df1f342769bd2b8c2f6eb31e0a98f9706abfd91f98d12b49d7438468e"));
 
         // Note that of those with the service bits flag, most only support a subset of possible options
-        vSeeds.emplace_back("40.87.45.240", true);
+        vSeeds.emplace_back("dnsseed.teamhax.net", true);
         //vSeeds.emplace_back("dnsseed.thrasher.io", true);
         //vSeeds.emplace_back("dnsseed.creditstools.com", true);
         //vSeeds.emplace_back("dnsseed.creditspool.org", true);
